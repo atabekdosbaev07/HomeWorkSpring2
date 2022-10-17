@@ -3,7 +3,7 @@ package org.example;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * Hello world!
+ *  Atabek Dosbaev
  *
  */
 public class App 
